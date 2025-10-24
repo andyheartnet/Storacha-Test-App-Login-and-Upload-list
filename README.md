@@ -9,3 +9,5 @@ First of all make sure your "package.json" is configured:
 }
 Second make sure your ".env" is set:
 EMAIL=your@email.com //replace with your registered e-mail!
+
+The last is to edit "upload.mjs" //What is provided by the main file
